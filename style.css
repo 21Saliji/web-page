@@ -3,3 +3,60 @@ h1{
     font-weight: extra-bold;
     color: #F9FAF8;
 }
+
+
+.hero,footer{
+    background-color: #1f2937;
+}
+button{
+    background-color: #3882f6;
+    border-radius: 4px;
+}
+
+.qoute-section{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: light;
+    color: #1f2937;
+    font-style: italic;
+    text-align: center;
+}
+.qoute{
+    font-weight: bold;
+    font-size: 30px;
+    font-style: normal;
+    text-align: right;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+/* header {
+    background-color: #f0f0f0; 
+    padding: 10px; 
+}
+
+.header-content {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+}
+
+
+.logo {
+    font-weight: bold;
+    font-size: 24px; 
+}
+
+
+.header-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header-links li {
+    display: inline; 
+    margin-right: 10px; 
+} */
