@@ -20,6 +20,15 @@ header {
     margin: 0;
 }
 
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container i {
+    margin: 10px;
+}
 
 /* Hero section styles */
 .hero {
